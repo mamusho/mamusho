@@ -1,7 +1,6 @@
 
 - 👋 Hi, I’m @mamusho
-- 👀 I’m interested in ...learning js at its best
-- 🌱 I’m currently learning ... Backend Dev
+- 🌱 I’m currently learning ... Backend Dev / Python
 - 📫 How to reach me ...does this has DM?
 
 
